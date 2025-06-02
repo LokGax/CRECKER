@@ -1,5 +1,6 @@
 # Инструкции хуйни
 ## CRACK $HOOK
+Сука сюда не смог залить, значит на workupload - https://workupload.com/file/ku3ZwTf7PCT
 - 1. Закиньте папку CRACK_hook_rt на диск C
 - 2. Создайте ярлык с путём C:\CRACK_hook_rt\$hook Loader.exe
 - 3. Запустите игру и потом сам ярлык
